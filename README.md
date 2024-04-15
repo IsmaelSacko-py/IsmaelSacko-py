@@ -55,4 +55,4 @@
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/adobe-photoshop-2.svg"/> </a>
 <br />
 <br />
-[![IsmaelSacko-py's github stats](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+![IsmaelSacko-py's github stats](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
