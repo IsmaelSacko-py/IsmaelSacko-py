@@ -56,3 +56,8 @@
 <br />
 <br />
 ![Les statistiques d'IsmaelSacko-py sur les github](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&show_icons=true&hide=["prs","issues","contribs"])
+<p> 
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=emicheldev.visitor-badge"/> 
+</p>
