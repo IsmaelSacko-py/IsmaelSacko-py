@@ -1,4 +1,4 @@
-
+# ![emichel](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.gif)
 ### Hi there 👋
 
 ### Languages :
@@ -37,12 +37,15 @@
 ### Outils :
 
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/Jenkins.svg"/> </a>
+<detail> 
+  <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
+  <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/Jenkins.svg"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/Postman.svg" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/SonarQube.svg" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/Docker.svg"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/Git.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/GitHub.svg"/> </a>
+</detail>
 <br />
 <br />
 
