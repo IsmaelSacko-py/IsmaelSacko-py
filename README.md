@@ -1,4 +1,4 @@
-# ![Ismael](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.jpeg)
+# ![Ismael](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.gif)
 ### Hi there 👋
 
 # Compétences :
