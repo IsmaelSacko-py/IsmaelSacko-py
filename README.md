@@ -1,4 +1,4 @@
-# ![emichel](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.gif)
+# ![emichel](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.jpeg)
 ### Hi there 👋
 
 ### Languages :
