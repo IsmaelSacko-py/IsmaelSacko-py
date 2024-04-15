@@ -1,7 +1,7 @@
 # ![Ismael](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.jpeg)
 ### Hi there 👋
 
-
+# Compétences :
 <details>
  <summary><strong>Languages :</strong></summary>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/C%23%20(CSharp).svg"/> </a>
@@ -58,4 +58,17 @@
   <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/adobe-photoshop-2.svg"/> </a>
 </details>
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&show_icons=true&theme=radical)
+
+
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSacko-py&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=IsmaelSacko-py&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&theme=vue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=IsmaelSacko-py&theme=vue&hide_border=true)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
