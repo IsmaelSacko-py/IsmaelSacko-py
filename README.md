@@ -51,8 +51,8 @@ Je suis un étudiant en informatique passionné par la technologie et la program
 
 
 # GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSacko-py&locale=fr&layout=compact)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&show_icons=true&locale=fr&theme=default)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSacko-py&locale=fr&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&show_icons=true&locale=fr&theme=default)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IsmaelSacko-py&theme=vue&hide_border=true)
 
 ---
