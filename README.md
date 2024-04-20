@@ -1,6 +1,6 @@
-# ![Ismael](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.gif)
-### Hi there 👋
-
+### Bonjour et bienvenue sur mon profil GitHub ! 👋
+### ![Ismael](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.gif) 
+Je suis un étudiant en informatique passionné par la technologie et la programmation. Je m'intéresse particulièrement au développement web et mobile, mais aussi aux systèmes embarqués et à l'intelligence artificielle. J'apprécie la collaboration avec d'autres développeurs et je crois fermement au partage des connaissances. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion sur le développement logiciel.
 # Compétences :
 <details>
  <summary><strong>Languages :</strong></summary>
