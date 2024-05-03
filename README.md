@@ -1,5 +1,5 @@
 ### Bonjour et bienvenue sur mon profil GitHub ! 👋
-### ![Ismael](https://github.com/IsmaelSacko-py/IsmaelSacko-py/blob/main/banner.gif) 
+### ![Ismael](banner.gif) 
 
 <div style="text-align: justify;">
 
