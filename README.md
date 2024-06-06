@@ -36,7 +36,7 @@ Je suis un étudiant en informatique passionné par la technologie et la program
 <details>
  <summary><strong>Outils :</strong></summary> <br>
  
- [![My Skills](https://skillicons.dev/icons?i=jenkins,postman,docker,git,github&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=jenkins,postman,figma,docker,git,github&theme=light)](https://skillicons.dev)
 </details>
 <br />
 
