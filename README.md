@@ -17,7 +17,7 @@ Je suis un étudiant en informatique passionné par la technologie et la program
 
 
 <details>
- <summary><strong>Framworks :</strong></summary> <br>
+ <summary><strong>Frameworks :</strong></summary> <br>
  
  [![My Skills](https://skillicons.dev/icons?i=laravel,angular,flutter,flask,dotnet,selenium&theme=light)](https://skillicons.dev)
 </details>
