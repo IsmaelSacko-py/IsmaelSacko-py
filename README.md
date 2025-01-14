@@ -3,7 +3,7 @@
 
 <div style="text-align: justify;">
 
-Je suis un étudiant en informatique passionné par la technologie et la programmation. Je m'intéresse particulièrement au développement web et mobile, mais aussi aux systèmes embarqués et à l'intelligence artificielle. J'apprécie la collaboration avec d'autres développeurs et je crois fermement au partage des connaissances. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion sur le développement logiciel.
+Je suis un développeur full-stack junior (spring boot / angular) passionné par le développement logiciel, avec une spécialisation en Java et Angular. Curieux et motivé, je m'intéresse également à des domaines émergents tels que l'intelligence artificielle et les systèmes embarqués. J'apprécie la collaboration avec d'autres développeurs et je crois fermement au partage des connaissances. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion sur le développement logiciel.
 
 </div>
 
@@ -11,7 +11,7 @@ Je suis un étudiant en informatique passionné par la technologie et la program
 <details>
  <summary><strong>Languages :</strong></summary> <br>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,cs,py,java,dart&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,c,cpp,cs,py,java,dart&theme=light)](https://skillicons.dev)
 </details>
 <br />
 
@@ -19,7 +19,7 @@ Je suis un étudiant en informatique passionné par la technologie et la program
 <details>
  <summary><strong>Frameworks :</strong></summary> <br>
  
- [![My Skills](https://skillicons.dev/icons?i=laravel,angular,flutter,flask,dotnet,selenium&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=laravel,angular,spring,flutter,flask,dotnet,selenium&theme=light)](https://skillicons.dev)
 </details>
 <br />
 
@@ -36,7 +36,7 @@ Je suis un étudiant en informatique passionné par la technologie et la program
 <details>
  <summary><strong>Outils :</strong></summary> <br>
  
- [![My Skills](https://skillicons.dev/icons?i=jenkins,postman,figma,docker,git,github&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=jenkins,postman,figma,docker,aws,git,stackoverflow,github,bitbucket&theme=light)](https://skillicons.dev)
 </details>
 <br />
 
