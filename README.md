@@ -44,7 +44,7 @@ Je suis un développeur full-stack junior (spring boot / angular) passionné par
 <details>
  <summary><strong>Logiciels :</strong></summary> <br>
  
- [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,ps&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,ps&theme=light)](https://skillicons.dev)
 </details>
 <br />
 
