@@ -3,7 +3,7 @@
 
 <div style="text-align: justify;">
 
-Je suis un développeur full-stack junior (spring boot / angular) passionné par le développement logiciel, avec une spécialisation en Java et Angular. Curieux et motivé, je m'intéresse également à des domaines émergents tels que l'intelligence artificielle et les systèmes embarqués. J'apprécie la collaboration avec d'autres développeurs et je crois fermement au partage des connaissances. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion sur le développement logiciel.
+Je suis un développeur full-stack junior (Java / angular) passionné par le développement logiciel, avec une spécialisation en Java et Angular. Curieux et motivé, je m'intéresse également à des domaines émergents tels que l'intelligence artificielle et les systèmes embarqués. J'apprécie la collaboration avec d'autres développeurs et je crois fermement au partage des connaissances. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion sur le développement logiciel.
 
 </div>
 
