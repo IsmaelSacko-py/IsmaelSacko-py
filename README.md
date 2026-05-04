@@ -1,13 +1,30 @@
-### Bonjour et bienvenue sur mon profil GitHub ! 👋
-### ![Ismael](banner.gif) 
+<!-- Header -->
+<div align="center">
 
-<div style="text-align: justify;">
+<img src="banner.gif" alt="Ismaël Sacko" width="100%"/>
 
-Je suis un développeur full-stack junior (Java / Angular) passionné par le développement logiciel, avec une spécialisation en Java et Angular. Curieux et motivé, je m'intéresse également à des domaines émergents tels que l'intelligence artificielle et les systèmes embarqués. J'apprécie la collaboration avec d'autres développeurs et je crois fermement au partage des connaissances. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion sur le développement logiciel.
+<br/>
+
+```
+// full-stack developer
+```
+
+# Bonjour, je suis **Ismaël Sacko** 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Java+%2F+Angular+Developer;Passionate+about+AI+%26+Embedded+Systems;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-# Technologies :
+<br/>
+
+> 💡 Développeur full-stack junior spécialisé en **Java & Angular**, passionné par le logiciel, l'IA et les systèmes embarqués. Curieux, collaboratif, et toujours en apprentissage.
+
+<br/>
+
+---
+
+## 🛠️ Stack & Outils
+
 <details>
  <summary><strong>Languages :</strong></summary> <br>
  
@@ -48,13 +65,42 @@ Je suis un développeur full-stack junior (Java / Angular) passionné par le dé
 </details>
 <br />
 
+---
 
+## 📊 GitHub Stats
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSacko-py&locale=fr&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=IsmaelSacko-py&show_icons=true&locale=fr&theme=default)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IsmaelSacko-py&theme=vue&hide_border=true)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-ivory-tau-77.vercel.app/api?username=IsmaelSacko-py&show_icons=true&count_private=true&locale=fr&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=38bda4&text_color=8b949e&border_radius=10"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats-ivory-tau-77.vercel.app/api/top-langs/?username=IsmaelSacko-py&locale=fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=IsmaelSacko-py&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=38bda4&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=58a6ff&border_radius=10"/>
+
+</div>
+
+<br/>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📬 Me contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON@EMAIL.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsmaelSacko-py)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<sub><code>// BUILT WITH PASSION — ISMAËL SACKO</code></sub>
+</div>
