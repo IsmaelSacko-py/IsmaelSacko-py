@@ -9,7 +9,7 @@
 // full-stack developer
 ```
 
-# Bonjour, je suis **Ismaël Sacko** 👋
+# Bonjour, je suis **Ismaël SAHO** 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Java+%2F+Angular+Developer;Passionate+about+AI+%26+Embedded+Systems;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
